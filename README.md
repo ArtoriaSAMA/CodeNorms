@@ -1,25 +1,4 @@
 
-## 命名规范
-### 项目命名
-采用小写方式，以下划线分割。
-例：my_first_project
-
-### 目录命名
-采用小写方式，以下划线分割。完整英文命名使用复数，缩写采用单数。
-例：scripts,lib,data_modules
-
-### js文件命名
-与项目命名规则一致。
-例：contract_tmp.js
-
-### css文件命名
-与项目命名规则一致。
-例：apartment_list.css
-
-### html文件命名
-与项目命名规则一致。
-例：list_tab.html
-
 ## css开发时书写规范
 ### 命名
 使用小写字母，以中划线分割
